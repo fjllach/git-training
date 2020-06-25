@@ -1,2 +1,2 @@
 # git-training
-Repo to play aroungd github
+Repo to play around github
