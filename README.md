@@ -1,2 +1,2 @@
 # git-training
-Rpeo to play aroungd github
+Repo to play aroungd github
